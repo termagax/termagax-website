@@ -1,0 +1,1 @@
+# This is my personal website, think of it like a resume of sorts
