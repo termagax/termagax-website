@@ -1,0 +1,82 @@
+/*general css for my entire site
+refer to the color pallets for coloring options*/
+
+/*
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_toggle_dark_mode
+*/
+
+
+body {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: Fira Code;
+    background-color: #fbf1c7;
+}
+
+a {
+    text-decoration: none;
+    color: #3c3836;
+}
+
+.head {
+    background-color: #fbf1c7;
+    display: block;
+    width: 100%;
+    height: 50px;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    
+}
+
+.home {
+    width: auto;
+    height: 45px;
+    display: inline-block;
+    margin-top:5px;
+    margin-left: 100px;
+}
+
+.image {
+    border-radius: 50%;
+    display: inline-block;
+    height: 75px;
+    width: 75px;
+    margin-bottom: -45px;
+    background-image: url("termagax.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.termagax {
+    margin-left: 25px;
+    display: inline-block;
+}
+
+.blog {
+    margin-left: 25px;
+    display: inline-block;
+}
+
+.projects {
+    margin-left: 25px;
+    display: inline-block;
+}
+
+.github {
+    margin-left: 23px;
+    display: inline-block;
+}
+
+.content {
+    margin-top: 25px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+
+
+
